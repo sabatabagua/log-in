@@ -6,7 +6,5 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 ////////////////////////////////////////////////////////////////////////
 hi i am new develper but i want to help with simple code.
 
-///////////////////////////////////////////////////////////////////////
-
-this is code where you can use for log in of gmail and his password.
+i am 16 years old front-end developer and i just want to create apps and web site thats all.
 
